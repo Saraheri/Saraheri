@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saraheri
-- 👀 I’m interested in web designing
+- 👀 I’m interested in web designing/developing
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on a web development team
 - 📫 How to reach me 
